@@ -1,0 +1,13 @@
+﻿model,model 1,model,model 2
+details,1 LSTM layer,details,"3 LSTM layers, 1 Attention Layer"
+final validation,,final validation,
+epoch 1 ,"Training: 3.3, Testing: 3.1",epoch 1 ,
+epoch 2 ,"Training: 3.02, Testing: 2.98",epoch 2 ,
+epoch 3,"Training:2.94, Testing: 2.94",epoch 3,
+epoch 4,"training: 2.91, testing: 2.92 ",epoch 4,
+epoch 5,"training:2.88, testing: 2.91",epoch 5,
+epoch 6,"training:2.87, testing: 2.907",epoch 6,
+epoch 7,"training:2.86, testing: 2.904",epoch 7,
+epoch 8,"training: 2.8542, testing:2.8992",epoch 8,
+epoch 9,"training:2.8454, testing: 2.8893",epoch 9,
+epoch 10,"training: 28368, testing: 2.8874",epoch 10,
