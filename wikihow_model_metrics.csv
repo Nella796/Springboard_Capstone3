@@ -1,0 +1,3 @@
+﻿model,details,final_training,final_testing
+model1,1 LSTM layer,2.8368,2.8874
+model2,"3 LSTM layers, 1 Attention Layer",,
